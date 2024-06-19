@@ -18,11 +18,11 @@ Este projeto é um ponto de partida para um aplicativo Flutter que permite ao us
 
 2. Instale as dependências.
 
-flutter pub get
+    'flutter pub get'
 
 3. Execute o aplicativo.
 
-flutter run
+    'flutter run
 
 ## Uso
 
