@@ -1,16 +1,32 @@
-# flutter_project
+# Projeto de Consulta de CEP
 
-A new Flutter project.
+Este é um projeto Flutter para consultar informações de um CEP (Código de Endereçamento Postal) utilizando a API ViaCEP.
 
-## Getting Started
+## Introdução
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para um aplicativo Flutter que permite ao usuário consultar informações detalhadas de um endereço a partir de um CEP fornecido.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Consultar informações de um endereço a partir de um CEP.
+- Exibir informações como logradouro, bairro, cidade e estado.
+- Interface simples e intuitiva.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação
+
+1. Clone este repositório.
+
+2. Instale as dependências.
+
+flutter pub get
+
+3. Execute o aplicativo.
+
+flutter run
+
+## Uso
+
+- Digite um CEP válido no campo de texto.
+- Pressione o botão "Consultar".
+- As informações do endereço serão exibidas na tela.
+
